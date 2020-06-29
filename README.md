@@ -19,7 +19,7 @@
 
 ## About the project
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Inventory Control Designed / Built by the Dynne team, it has the best services and adapted to the needs or needs of the client or company. We offer the best services always aiming at the client's business rule. delivering not only a complete Inventory Control, but a value product that generates profits, which will help in sales leaving it in a simple and objective way. You can find all this in the services of Dynne Tecnologia. That uses the best services and tasks like:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
