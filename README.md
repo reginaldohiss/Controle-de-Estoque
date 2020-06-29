@@ -17,13 +17,28 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="./public/readme/usuarios.png" alt="Primeiro Slide">
+      <img class="d-block w-100" src="./public/readme/tela_login.png" alt="Primeiro Slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src=".../800x400?auto=yes&bg=666&fg=444&text=Segundo Slide" alt="Segundo Slide">
+      <img class="d-block w-100" src="./public/readme/cadastro_login.png" alt="Segundo Slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src=".../800x400?auto=yes&bg=555&fg=333&text=Terceiro Slide" alt="Terceiro Slide">
+      <img class="d-block w-100" src="./public/readme/cofig_login.png" alt="Terceiro Slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="./public/readme/produto.png" alt="Quarto Slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="./public/readme/usuarios.png" alt="Quinto Slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="./public/readme/clientes.png" alt="Sexto Slide">
+    </div>
+     <div class="carousel-item">
+      <img class="d-block w-100" src="./public/readme/fornecedores.png" alt="Sétimo Slide">
+    </div>
+     <div class="carousel-item">
+      <img class="d-block w-100" src="./public/readme/compras.png" alt="oitavo Slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
