@@ -25,7 +25,7 @@ The Inventory Control Designed and built by the Dynne team, it has the best serv
 
 We use the best technologies for product performance, as well as good practices. Giving even better usability, stability and total viability. Technologies such as:
 
-- **[Vehikl](https://vehikl.com/)**
+- **[HTML, CSS E JAVASCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 - **[Tighten Co.](https://tighten.co)**
 - **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
 - **[64 Robots](https://64robots.com)**
