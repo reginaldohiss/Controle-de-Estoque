@@ -19,7 +19,7 @@
 
 ## About the project
 
-Inventory Control Designed / Built by the Dynne team, it has the best services and adapted to the needs or needs of the client or company. We offer the best services always aiming at the client's business rule. delivering not only a complete Inventory Control, but a value product that generates profits, which will help in sales leaving it in a simple and objective way. You can find all this in the services of Dynne Tecnologia. That uses the best services and tasks like:
+The Inventory Control Designed and Built by the Dynne team has the best services and adapted to the problem or need of the client or company, We offer the best services always aiming at the client's business rule. delivering not only a complete Inventory Control, but a value product that generates profits, which will help in sales leaving it in a simple and objective way. You can find all this in the services of Dynne Tecnologia. Hire Us We can be close to You.
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
