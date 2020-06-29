@@ -20,9 +20,10 @@
     <!-- <div class="carousel-item">
       <img class="d-block w-100" src="./public/readme/cofig_login.png" alt="Terceiro Slide">
     </div> -->
-    <!-- <div class="carousel-item">
+    <div class="carousel-item">
       <img class="d-block w-100" src="./public/readme/produto.png" alt="Quarto Slide">
     </div>
+    <!--
     <div class="carousel-item">
       <img class="d-block w-100" src="./public/readme/usuarios.png" alt="Quinto Slide">
     </div>
