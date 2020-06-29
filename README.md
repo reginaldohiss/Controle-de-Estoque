@@ -21,12 +21,6 @@
 
 The Inventory Control Designed and built by the Dynne team, it has the best services and adapted to the needs and needs of the client or company. We offer the best services always aiming at the client's business rule. Delivering not only a complete Inventory Control, but a value product that generates profits, which will help in sales leaving it in a simple and objective way. You can find all this in the services of Dynne Tecnologia. Hire Us We can be close to You.
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
