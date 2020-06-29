@@ -11,15 +11,15 @@
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
-    <div class="carousel-item active">
+    <!-- <div class="carousel-item active">
       <img class="d-block w-100" src="./public/readme/tela_login.png" alt="Primeiro Slide">
-    </div>
+    </div> -->
     <!-- <div class="carousel-item">
       <img class="d-block w-100" src="./public/readme/cadastro_login.png" alt="Segundo Slide">
     </div> -->
-    <!-- <div class="carousel-item">
+    <div class="carousel-item">
       <img class="d-block w-100" src="./public/readme/cofig_login.png" alt="Terceiro Slide">
-    </div> -->
+    </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="./public/readme/produto.png" alt="Quarto Slide">
     </div>
