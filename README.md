@@ -28,7 +28,7 @@ or hire all this in the services provided by the same profile. Hire me I can be 
 The project is based on dynamic features to have maximum interactivity with its user, allowing it
 better usability containing the following features:
 
-- CADASTRO DE USÚARIO
+- CADASTRO DE USUÁRIO
 - CONFIGURAÇÃO DE USUÁRIO
 - EXCLUSÃO DE USUÁRIO
 - ATUALIZAÇÃO DE USUÁRIO
