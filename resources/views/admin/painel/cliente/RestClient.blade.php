@@ -1,7 +1,7 @@
 @extends('admin.layout.admin')
 
 @section('contentElement')
-    <h1 class="m-0 text-dark text-uppercase"><strong>Vizualização de Fornecedor</strong></h1>
+    <h1 class="m-0 text-dark text-uppercase"><strong>Vizualização de Cliente</strong></h1>
 @endsection
 
 @section('rowContent')
@@ -67,7 +67,7 @@
     <div class="container py-2 col-6">
         <div class="card card-primary">
             <div class="card-header">
-                <h3 class="card-title">Fornecedor</h3>
+                <h3 class="card-title">Cliente</h3>
             </div>
             <div class="card-body">
                 <div class="form-group mb-4">

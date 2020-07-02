@@ -67,7 +67,7 @@
     <div class="modal-dialog" >
         <div class="modal-content col-sm-12">
             <div class="modal-header">
-                <h4 class="modal-title float-left"><strong>Atualizando Produto</strong></h4>
+                <h4 class="modal-title float-left"><strong>Atualizando Cliente</strong></h4>
             </div>
             <div class="modal-body col-12">
                 <form method="POST" action="{{route('client.update', ['client' => $clien])}}" enctype="multipart/form-data">

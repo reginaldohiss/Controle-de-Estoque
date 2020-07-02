@@ -19,8 +19,44 @@
 
 ## About the project
 
-The Inventory Control Designed and built by the Dynne team, it has the best services and adapted to the needs and needs of the client or company. We offer the best services always aiming at the client's business rule. Delivering not only a complete Inventory Control, but a value product that generates profits, which will help in sales leaving it in a simple and objective way. You can find all this in the services of Dynne Tecnologia. Hire Us We can be close to You. [Clique Aqui](https://www.dynne.com.br/)
-## Technologies Used
+The Inventory Control Designed and built by me, it has the best services and adapted to the needs and requirements of the client or company. Include the best services always following the client's business rule. Provide not only complete inventory control, but a valuable product that generates profits, or that helps sales, leaving it simple and objective. You can find
+or hire all this in the services provided by the same profile. Hire me I can be close to you. [Clique Aqui](https://www.instagram.com/reginaldohiss/?hl=pt-br)
+
+
+## User experience
+
+The project is based on dynamic features to have maximum interactivity with its user, allowing it
+better usability containing the following features:
+
+- **[CADASTRO DE USÚARIO]
+- **[CONFIGURAÇÃO DE USUÁRIO]
+- **[EXCLUSÃO DE USUÁRIO]
+- **[ATUALIZAÇÃO DE USUÁRIO]
+- **[IMPRESSÃO DE USUÁRIOS NO SISTEMA]
+-------------------------------
+- **[CADASTRO DE PRODUTO]
+- **[CONFIGURAÇÃO DE PRODUTO REFERENTE SUA EMPRESA]
+- **[EXCLUSÃO DE PRODUTO]
+- **[ATUALIZAÇAÕ DE PRODUTO]
+- **[IMPRESSÃO DE PRODUTOS]
+-------------------------------
+- **[CADASTRO DE CLIENTE]
+- **[CONFIGURAÇÃO DE CLIENTE]
+- **[EXCLUSÃO DE CLIENTE]
+- **[ATUALIZAÇÃO DE CLIENTE]
+- **[IMPRESSÃO DE CLIENTES]
+-------------------------------
+- **[CADASTRO DE FORNECEDORES]
+- **[CONFIGURAÇÃO DE FORNECEDORES]
+- **[EXCLUSÃO DE FORNECEDORES]
+- **[ATUALIZAÇÃO DE FORNECEDORES]
+- **[IMPRESSÃO DE FORNECEDORES]
+--------------------------------
+- **[CAIXA FINAÇEIRO]
+- **[IMPRESSÃO DE COMPRA]
+
+
+## Technologies used in our projects 
 
 We use the best technologies for product performance, as well as good practices. Giving even better usability, stability and total viability. Technologies such as:
 
