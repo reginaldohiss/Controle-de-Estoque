@@ -137,7 +137,7 @@ class UserController extends Controller
 
         $user->telephone = $request->telephone;
 
-        if ($request->password != $user->password){
+        if (!password_verify($request->password, $user->password)){
             return redirect()->back()->withInput()->withErrors(['Senha Incorreta']);
         }
 
