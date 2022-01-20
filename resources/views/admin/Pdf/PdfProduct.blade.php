@@ -1,11 +1,11 @@
 @extends('admin.layout.PdfLayout')
 
-<h4 class="m-0 text-dark text-uppercase text-center mb-5"><strong> Linha de Produtos</strong></h4>
-
 @section('content')
-        <div class="card card-info mt-5">
+    <h4 class="m-0 text-dark text-uppercase text-center mb-5"><strong> Linha de Produtos</strong></h4>
+
+    <div class="card card-info mt-5">
             <div class="card-body p-0">
-                <table class="table">
+                <table class="table table-striped">
                     <thead>
                     <tr>
                         <th>ID</th>
@@ -17,7 +17,7 @@
                     </tr>
                     </thead>
                     <tbody>
-
+                    @if($produt)
                     @foreach($produt as $prod)
                         <tr>
                             <td>{{$prod->id}}</td>
@@ -29,6 +29,7 @@
 
                         </tr>
                     @endforeach
+                    @endif
                     </tbody>
                 </table>
                 <div class="dropdown-divider"></div>

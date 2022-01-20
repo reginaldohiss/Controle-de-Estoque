@@ -9,6 +9,7 @@ use App\Purchase;
 use App\User;
 use Barryvdh\DomPDF\Facade;
 use Illuminate\Http\Request;
+use PDF;
 
 class PdfController extends Controller
 {
@@ -18,7 +19,7 @@ class PdfController extends Controller
 
         $pdfProduct = Facade::loadView('admin.Pdf.PdfProduct', compact('produt'));
 
-        return $pdfProduct->setPaper('a4')->download('Produtos.pdf');
+        return $pdfProduct->setPaper('a4')->stream('Produtos.pdf');
     }
 
     public function pdfUsuario()

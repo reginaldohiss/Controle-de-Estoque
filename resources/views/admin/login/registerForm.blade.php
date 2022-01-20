@@ -4,9 +4,9 @@
     <div class="wrapper fadeInDown">
 
         <!-- Icon -->
-        <div class="fadeIn first">
-            <h2>Cadastro</h2>
-        </div>
+{{--        <div class="fadeIn first">--}}
+{{--            <h2>Cadastro</h2>--}}
+{{--        </div>--}}
 
         <div id="formContent">
             <!-- Tabs Titles -->
@@ -30,7 +30,8 @@
             </form>
 
             <div id="formFooter">
-                <a class="underlineHover" href="{{route('adm.login')}}">Sou Cadastrado?</a>
+                Já tem conta ?
+                <a class="underlineHover" href="{{route('adm.login')}}"> Clique aqui</a>
             </div>
 
         </div>

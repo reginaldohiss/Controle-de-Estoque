@@ -15,6 +15,8 @@
 //    return view('welcome');
 //});
 
+use Illuminate\Support\Facades\Route;
+
 Route::get('/admin', 'UserController@deshboard')->name('adm');
 Route::get('/', 'UserController@loginForm')->name('adm.login');
 Route::get('/admin/login/logout', 'UserController@logout')->name('adm.logout');
@@ -47,3 +49,4 @@ Route::get('pdf/usuario', 'PdfController@pdfUsuario')->name('pdf.usuario');
 Route::get('pdf/cliente', 'PdfController@pdfCliente')->name('pdf.cliente');
 Route::get('pdf/fornecedor', 'PdfController@pdfFornecedor')->name('pdf.fornecedor');
 Route::get('pdf/compra', 'PdfController@pdfPurchase')->name('pdf.compra');
+

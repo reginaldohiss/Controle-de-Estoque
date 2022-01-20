@@ -2,14 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc997d76-fc5a-4efb-a73a-0086827768a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Controle-de-Estoque.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Controle-de-Estoque.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tecnologia.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PdfController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PdfController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/layout/admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/layout/admin.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/site/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/site/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/site/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/site/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/Pdf/PdfClient.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/Pdf/PdfClient.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/Pdf/PdfProduct.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/Pdf/PdfProduct.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/login/loginForm.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/login/loginForm.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/login/registerForm.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/login/registerForm.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +135,7 @@
       <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
       <path value="$PROJECT_DIR$/vendor/php-parallel-lint/php-console-highlighter" />
       <path value="$PROJECT_DIR$/vendor/php-parallel-lint/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/h4cc/wkhtmltopdf-i386" />
     </include_path>
   </component>
   <component name="ProjectId" id="1qaqHuP3l8qY1o2CFZvyUVLmeum" />
@@ -155,10 +169,25 @@
       <workItem from="1617327986377" duration="2528000" />
       <workItem from="1617332516956" duration="1248000" />
       <workItem from="1617373654682" duration="1096000" />
+      <workItem from="1642464648372" duration="9135000" />
+      <workItem from="1642530602434" duration="19760000" />
+      <workItem from="1642637944048" duration="8108000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

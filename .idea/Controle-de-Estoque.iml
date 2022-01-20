@@ -101,6 +101,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/phpdocumentor/reflection-docblock" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/php-parallel-lint/php-console-highlighter" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/php-parallel-lint/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/h4cc/wkhtmltopdf-i386" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

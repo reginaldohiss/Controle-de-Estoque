@@ -5,7 +5,7 @@
 @section('content')
     <div class="card card-info mt-5">
         <div class="card-body p-0">
-            <table class="table">
+            <table class="table table-striped">
                 <thead>
                 <tr>
                     <th>ID</th>
