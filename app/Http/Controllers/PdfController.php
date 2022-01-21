@@ -28,7 +28,7 @@ class PdfController extends Controller
 
         $pdfuser = Facade::loadView('admin.Pdf.PdfUser', compact('usuario'));
 
-        return $pdfuser->setPaper('a4')->download('Usuários.pdf');
+        return $pdfuser->setPaper('a4')->stream('Usuários.pdf');
     }
 
     public function pdfCliente()
@@ -37,7 +37,7 @@ class PdfController extends Controller
 
         $pdfclient = Facade::loadView('admin.Pdf.PdfClient', compact('cliente'));
 
-        return $pdfclient->setPaper('a4')->download('Clientes.pdf');
+        return $pdfclient->setPaper('a4')->stream('Clientes.pdf');
     }
 
     public function pdfFornecedor()
@@ -46,7 +46,7 @@ class PdfController extends Controller
 
         $pdffornece = Facade::loadView('admin.Pdf.PdfProvider', compact('fornecedor'));
 
-        return $pdffornece->setPaper('a4')->download('fornecedores.pdf');
+        return $pdffornece->setPaper('a4')->stream('fornecedores.pdf');
     }
 
     public function pdfPurchase(Request $request)
@@ -54,6 +54,6 @@ class PdfController extends Controller
         $compra = Purchase::find((int) $request->clientee);
         $pdffornece = Facade::loadView('admin.Pdf.PdfPurchase', compact('compra'));
 
-        return $pdffornece->setPaper('a4')->download('Compra.pdf');
+        return $pdffornece->setPaper('a4')->stream('Compra.pdf');
     }
 }

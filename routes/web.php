@@ -11,9 +11,6 @@
 |
 */
 
-//Route::get('/', function (){
-//    return view('welcome');
-//});
 
 use Illuminate\Support\Facades\Route;
 
@@ -31,18 +28,18 @@ Route::get('/painel/userAll', 'UserController@indexAll')->name('painel.userAll')
 Route::any('/search', 'UserController@search')->name('painel.search');
 Route::any('/product/search', 'ProductController@searchProduct')->name('painel.searchProduct');
 
-//Auth::routes();
+
 Route::resource('painel', 'ProductController')->names('product')->parameters(['painel' => 'product']);
-//Route::get('/home', 'HomeController@index')->name('home');
+
 Route::any('/fornecedor/search', 'ProviderController@searchProvider')->name('fornecedor.searchProvider');
 Route::resource('adm/fornecedor', 'ProviderController')->names('provider')->parameters(['fornecedor' => 'provider']);
-//->names('product')->parameters(['painel' => 'product']);
 
 Route::resource('compra', 'PurchaseController')->names('purchase')->parameters(['compra' => 'purchase']);
-//Route::get('compra/cliente', 'PurchaseController@clientt')->name('cliente.compra');
-//
+
 Route::any('/cliente/search', 'ClientController@searchClient')->name('clienter.searchProvider');
 Route::resource('cliente', 'ClientController')->names('client')->parameters(['cliente' => 'client']);
+
+
 //-----------------------------------------------
 Route::get('pdf/produto', 'PdfController@pdfProduct')->name('pdf.produto');
 Route::get('pdf/usuario', 'PdfController@pdfUsuario')->name('pdf.usuario');
