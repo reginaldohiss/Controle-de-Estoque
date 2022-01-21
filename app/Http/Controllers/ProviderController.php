@@ -112,6 +112,7 @@ class ProviderController extends Controller
      */
     public function update(Request $request, Provider $provider)
     {
+
         if(empty($request->fornecedor)){
             return redirect()->back()->withInput()->withErrors(['Preencha os dados corretamente']);
 
@@ -128,13 +129,6 @@ class ProviderController extends Controller
         }
         $provider->CNPJ = $request->cnpj;
 
-
-        if(empty($request->stock)){
-            return redirect()->back()->withInput()->withErrors(['Preencha os dados corretamente']);
-        }elseif ($request->stock == $provider->provider){
-            return redirect()->back()->withInput()->withErrors(['Preencha os dados corretamente']);
-        }
-        $provider->stock = $request->stock;
         $provider->save();
 
         return redirect()->route('provider.index');

@@ -88,19 +88,6 @@
                         <label for="recipient-name" class="control-label">Fornecedor:</label>
                         <input name="fornecedor" value="{{$provide->provider}}" type="text" class="form-control">
                     </div>
-{{--                    <div class="form-group">--}}
-{{--                        <label>Unidade</label>--}}
-{{--                        <select class="form-control" name="unidade">--}}
-{{--                            @if($product->unity === "KG")--}}
-{{--                                <option>{{$product->unity}}</option>--}}
-{{--                                <option>UNI</option>--}}
-{{--                            @elseif($product->unity === "UNI")--}}
-{{--                                <option>{{$product->unity}}</option>--}}
-{{--                                <option>KG</option>--}}
-{{--                            @endif--}}
-
-{{--                        </select>--}}
-{{--                    </div>--}}
 
                     <div class="form-group">
                         <label for="recipient-name" class="control-label">Empresa</label>
@@ -113,8 +100,8 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="recipient-name" class="control-label">ID Produto:</label>
-                        <input name="stock" value="{{$provider->name}}" type="text" class="form-control">
+                        <label for="recipient-name" class="control-label">Produto:</label>
+                        <input name="stock" readonly value="{{$provider->name}}" type="text" class="form-control">
                     </div>
 
 
